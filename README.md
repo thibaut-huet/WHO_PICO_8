@@ -2,7 +2,7 @@
 Jeu sur console virtuelle PICO 8.
 
 ## Objectif
-Apprendre à coder sans dépendre de l’IA à travers la création d’un petit projet concret.
+Apprendre les bases de la proggrammation sans dépendre de l’IA à travers la création d’un petit projet concret.
 
 L’objectif principal est de développer des compétences en programmation en expérimentant, en recherchant et en construisant un jeu de A à Z.
 
@@ -24,7 +24,7 @@ L’univers du jeu est basé sur un monde déjà existant issu d’un **livre ho
 ## Technologies & Outils utilisés
 - 🎮 https://www.pico-8-edu.com/
 - 📺 Tutoriels YouTube
-- 🤖 IA utilisée uniquement comme **outil pédagogique** (explications et aide à la compréhension)
+- 🤖 IA utilisée de manière ponctuelle comme **outil pédagogique** (explications et aide à la compréhension)
 
 ---
 
@@ -47,4 +47,4 @@ Projet réalisé par **Thibaut HUET**
 
 ---
 ## Remarque
-Ce projet est avant tout un exercice d’apprentissage. L’objectif n’est pas la perfection, mais la progression.
+Ce projet est avant tout un environement d’apprentissage. 
